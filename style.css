@@ -1,0 +1,130 @@
+
+body{
+  text-align: center;
+  margin: 0px;
+  font-family: 'Roboto';
+  letter-spacing: 0.05rem;
+}
+#name {
+  font-family: 'Damion';
+  font-size: 3.5rem;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  color: #44c776;
+}
+
+h1{
+  font-size: 2rem;
+  margin: 3rem auto;
+  color: #30a75d;
+  text-align: center;
+}
+
+h2{
+  font-size: 1.5rem;
+  margin: 0.5rem auto;
+  color: #44c776;
+}
+
+#para1 {
+  margin: 0 auto;
+  width: 30%;
+}
+#desc {
+  margin: 10px auto 120px auto;
+  font-size: 1.2rem;
+  color: #44c776;
+  font-weight: 500;
+}
+#first-block{
+  background-color: #e8fff1;
+  padding-top:100px ;
+  position: relative;
+  text-align: center;
+  
+}
+#second-block{
+  text-align: center;
+}
+
+.bird1 {
+  position: absolute;
+  top: 260px;
+  left: 250px;
+  width: 57px;
+}
+.bird2 {
+  position: absolute;
+  top: 230px;
+  left: 160px;
+  width: 57px;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 60px;
+  right: 70px;
+  width: 150px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 100px;
+  left: 140px;
+  width: 150px;
+}
+
+.mountain {
+  margin-bottom: 0;
+  width: 100%;
+  max-width: 900px;
+}
+
+.pic {
+  margin: 80px auto 10px auto;
+  width: 20%;
+}
+
+hr {
+  margin: 100px auto;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0),#30a75d, rgba(0, 0, 0, 0));
+}
+
+.third-block {
+  text-align: center;
+}
+
+
+.iot-skill {
+  text-align: left;
+  margin: auto;
+  width: 50%;
+}
+
+.software-skill {
+  margin: auto;
+  text-align: right;
+  width: 50%;
+}
+
+.smart-clock {
+  width: 35%;
+  float: left;
+  margin-right: 50px;
+}
+
+.website-icon {
+  width: 30%;
+  float: right;
+  margin-left: 50px;
+}
+
+.forth-block {
+  width: 50%;
+  margin: auto;
+}
